@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "@electron/asar": "^3.2.7",
-    "@malept/cross-spawn-promise": "^2.0.0",
+    "@malept/cross-spawn-promise": "adactiveasia/cross-spawn-promise",
     "debug": "^4.3.1",
     "dir-compare": "^4.2.0",
     "fs-extra": "^11.1.1",
